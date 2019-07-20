@@ -60,7 +60,7 @@ class MainApp extends StatelessWidget {
                         GetGestureDetector(
                           colour: Color(0xff0378B6),
                           images: "images/link.jpg",
-                          url: "https://www.linkedin.com",
+                          url: "https://in.linkedin.com/in/sagar-mittal-268820179?trk=people-guest_profile-result-card_result-card_full-click",
                           name: "Linkedin",
                           high: 100.0,
                           wid: 120.0,
